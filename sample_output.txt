@@ -1,0 +1,5 @@
+# Illustrative output format only (made-up resource names, not from a real account)
+[HIGH] S3-001 example-logs-bucket: public access block is missing or incomplete
+[HIGH] EC2-001 sg-0123456789abcdef0: web-sg allows SSH from the internet
+[HIGH] IAM-001 test-user: console user has no MFA device
+3 finding(s) written to findings.json
